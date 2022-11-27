@@ -1,0 +1,12 @@
+Heatflow sim (game?)
+
+Premise:
+- A grid of cells representing finite elements. Each has a temperature and interacts with its neighbours.
+- Heat should flow through system as it evolves. 
+
+- Will need a table view
+- Perhaps just start there.
+
+- 1) Table view of fixed size
+- 2) Table view rendered in React, set to fixed size.
+- 3) Table view rendered in React, reading size from Flask server (where it is fixed)
